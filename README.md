@@ -6,7 +6,7 @@ This API allows users to manage bookmarks for videos and photos, automatically r
 
 Built with Symfony, API Platform, and Doctrine.
 
-#Features#
+# Features #
 
 - ✔️ Create and delete video and photo bookmarks
 - ✔️ Automatic metadata extraction via oEmbed
@@ -39,7 +39,7 @@ When accessing the API on localhost, you'll need to accept the self-signed SSL c
 
 If you want to access the API over HTTPS, retrieve the certificate from the Caddy volume:
 
-📍 Path: caddy/pki/authorities/local/root
+```Path: caddy/pki/authorities/local/root```
 
 Save the certificate in your browser to avoid security warnings.
 
