@@ -20,16 +20,16 @@ Built with Symfony, API Platform, and Doctrine.
 🔧 Installation & Setup
 
 1️⃣ Build the project (without cache)
-docker compose build --no-cache
+```docker compose build --no-cache```
 
 2️⃣ Start the containers
-docker-compose up -d
+```docker-compose up -d```
 
 3️⃣ Install dependencies
-make composer-install
+```make composer-install```
 
 4️⃣ Run database migrations
-make migration-migrate
+```make migration-migrate```
 
 ---------------------------
 
