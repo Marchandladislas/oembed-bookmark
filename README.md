@@ -44,3 +44,22 @@ If you want to access the API over HTTPS, retrieve the certificate from the Cadd
 Save the certificate in your browser to avoid security warnings.
 
 🚀 You're ready to use the API!
+
+---------------------------
+
+Payload example for testing : 
+
+POST video
+```
+{
+  "url": "https://vimeo.com/76979871/"
+}
+```
+
+Post photo
+
+```
+{
+  "url": "https://www.flickr.com/photos/bees/2341623661"
+}
+```
