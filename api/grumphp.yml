@@ -1,5 +1,6 @@
 grumphp:
-    tasks: 
+    hooks_dir: ../.git/hooks
+    tasks:
         make:
             make_file: ../Makefile
             task: before-commit
