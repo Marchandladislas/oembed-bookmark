@@ -8,12 +8,12 @@ Built with Symfony, API Platform, and Doctrine.
 
 #Features#
 
-✔️ Create and delete video and photo bookmarks
-✔️ Automatic metadata extraction via oEmbed
-✔️ Supports JSON-LD format (API Platform)
-✔️ Uses Doctrine ORM with PostgreSQL
-✔️ Fully tested with PHPUnit
-✔️ Includes a Makefile for simplified commands
+- ✔️ Create and delete video and photo bookmarks
+- ✔️ Automatic metadata extraction via oEmbed
+- ✔️ Supports JSON-LD format (API Platform)
+- ✔️ Uses Doctrine ORM with PostgreSQL
+- ✔️ Fully tested with PHPUnit
+- ✔️ Includes a Makefile for simplified commands
 
 ---------------------------
 
