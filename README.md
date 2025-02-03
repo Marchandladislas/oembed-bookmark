@@ -15,6 +15,8 @@ Built with Symfony, API Platform, and Doctrine.
 - ✔️ Fully tested with PHPUnit
 - ✔️ Includes a Makefile for simplified commands
 
+- You can make the command ```Make before-commit``` to check if everything is clean (cs-fixer / lv 7 phpstan / lint:yaml ..)
+
 ---------------------------
 
 🔧 Installation & Setup
@@ -63,3 +65,5 @@ Post photo
   "url": "https://www.flickr.com/photos/bees/2341623661"
 }
 ```
+
+
